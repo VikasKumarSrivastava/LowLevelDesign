@@ -10,3 +10,5 @@ public class Test {
 	}
 
 }
+// In the above program, when an object of MountainBike class is created, a copy of all methods and fields of the superclass acquires memory in this object. 
+// That is why by using the object of the subclass we can also access the members of a superclass
