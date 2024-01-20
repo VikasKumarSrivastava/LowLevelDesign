@@ -1,7 +1,7 @@
 
 public class Employee {
 	//We can achieve encapsulation by making instance variable as private and use public setter 
-	//	and getter method to manipulate and access it respectively;
+	//	and getter method to manipulate and access it respectively.;
 	private int age;
 	private String name;
 
