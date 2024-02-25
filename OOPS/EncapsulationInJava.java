@@ -4,7 +4,6 @@ public class Employee {
 	//	and getter method to manipulate and access it respectively.;
 	private int age;
 	private String name;
-
 	public void setName(String name) {
 		this.name = name;
 	}
