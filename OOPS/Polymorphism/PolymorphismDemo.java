@@ -1,7 +1,5 @@
 package demopackage3;
 //Class 1
-
-
 //Helper class
 
 class Parent {
