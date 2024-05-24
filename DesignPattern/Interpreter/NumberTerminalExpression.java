@@ -1,5 +1,4 @@
 package BehavioralPattern_interpreter;
-
 public class NumberTerminalExpression implements AbstractExpression {
 	String str;
 	NumberTerminalExpression(String s){
