@@ -1,5 +1,4 @@
 package demopackage;
-
 class Bicycle {
 	
 	public int gear;
